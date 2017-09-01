@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "webpack-dev-server --hot --inline --env.env=dev",
     "prod": "rm -rf dist/* && webpack --env.env=prod && node server.js",
-    "build": "rm -rf dist/* && webpack --env.env=prod"
+    "build": "rm -rf dist/* && webpack --env.env=prod",
+    "test":  "karma start"
   },
   "keywords": [],
   "author": "",
