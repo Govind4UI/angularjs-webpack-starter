@@ -1,6 +1,6 @@
 # AngularJS Webpack Starter
 
-> An Angular 1 starter kit featuring [AngularJS](https://angular.io/), [Ahead of Time Compile](https://angular.io/guide/aot-compiler), [UI Router](https://ui-router.github.io/), [ES6](http://es6-features.org/#Constants), [Sass](http://sass-lang.com/), [Hot Module Replacement](https://webpack.github.io/docs/hot-module-replacement-with-webpack.html) and    [Webpack](http://webpack.github.io/)
+> An Angular 1 starter kit featuring [AngularJS](https://angular.io/), [Ahead of Time Compile](https://angular.io/guide/aot-compiler), [UI Router](https://ui-router.github.io/), [ES6](http://es6-features.org/#Constants), [Sass](http://sass-lang.com/), Unit Tests, [Karma](https://karma-runner.github.io/1.0/index.html), [Jasmine](https://jasmine.github.io/), [Hot Module Replacement](https://webpack.github.io/docs/hot-module-replacement-with-webpack.html) and    [Webpack](http://webpack.github.io/)
 
 > Pure front-end implementation, all API interactions in future releases will be mocked.
 
